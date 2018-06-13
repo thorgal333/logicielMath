@@ -1,0 +1,17 @@
+{
+  "name": "mathlogicielnode",
+  "version": "1.0.0",
+  "description": "Math logiciel",
+  "main": "fonction1.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "jfp",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "dependencies": {
+    "jasmine-terminal-reporter": "^1.0.3"
+  }
+}
